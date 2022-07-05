@@ -2,7 +2,7 @@
 
 The code in this repository is used to train and apply a Named Entity Recognition (NER) model to detect informal references to datasets in academic literature. The labeled data are derived from the [ICPSR Bibliography of Data-Related Literature](https://www.icpsr.umich.edu/web/pages/ICPSR/citations/) and the [Semantic Scholar Open Research Corpus](https://github.com/allenai/s2orc). This analysis supports the paper, [A Natural Language Processing Pipeline for Detecting Informal Data References in Academic Literature](https://arxiv.org/abs/2205.11651).
 
-This repository is archived in Zenodo: [https://doi.org/10.5281/zenodo.6798661](https://doi.org/10.5281/zenodo.6798661)
+[![DOI](https://zenodo.org/badge/498433238.svg)](https://zenodo.org/badge/latestdoi/498433238)
 
 ## code/ner-demo.ipynb
 Demonstration notebook of NER model applied to a paper
